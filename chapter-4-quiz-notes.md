@@ -29,6 +29,7 @@
 ## 4.1 The Mongol Era in Chinese History (Yuan dynasty, 1271–1368)
 
 **Preserving Mongol separateness:**
+- **The Yassa** (Chinggis Khan's law code, enforced by special policemen) remained the legal framework — this is the "Mongol separateness" answer.
 - **Mongolian language** used for records and correspondence at upper levels of government.
 - Mongol religious ceremonies/customs retained; a **tent encampment** set up in the imperial city.
 - Kubilai **REFUSED to restore the civil service exams** (discontinued earlier by the **Jin** dynasty) despite Confucian advisors' entreaties.
